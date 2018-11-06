@@ -1,0 +1,15 @@
+#card{
+  text-align: center;
+  background:rgb(119, 182, 238);
+  border-radius: 15px;
+  border:10px;
+  margin: 37px;
+  padding:35px;
+  margin-left: 270px;
+  margin-right: 270px;
+  border-style: dotted;
+}
+
+body {
+background: rgb(126, 134, 185);
+}

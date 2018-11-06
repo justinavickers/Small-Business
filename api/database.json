@@ -1,0 +1,61 @@
+{
+
+  "computer": [{
+"id":1,
+"model": "MacBook Pro"
+
+},
+  
+{
+  "id":2,
+  "model": "Surface"
+},
+
+{
+  "id":3,
+  "model":"Alienware"
+}],
+
+
+
+"department": [{
+"id":1,
+"name": "Sales"
+},
+
+{
+  "id":2,
+  "name": "Management"
+},
+
+{
+  "id":3,
+  "name": "Customer Service"
+}],
+
+
+"employees": [{
+"id":1,
+"name": "Jim",
+"department_id": 1,
+"computer_id": 1
+},
+
+{
+  "id":2,
+  "name": "Adam",
+  "department_id": 2,
+  "computer_id": 2
+},
+
+{
+  "id":3,
+  "name": "Pam",
+  "department_id": 3,
+  "computer_id": 3
+}
+
+]
+
+}
+  
